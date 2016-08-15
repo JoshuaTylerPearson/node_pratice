@@ -41,3 +41,6 @@ key.pem
 
 # databases
 db
+
+# front end libs
+vender
